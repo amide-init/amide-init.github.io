@@ -3,7 +3,8 @@
   "profileType": "user",
   "featuredRepos": [
     "gitfolio",
-    "usedamru/sql2nosql"
+    "usedamru/sql2nosql",
+    "luxe-tools/luxe-edit"
   ],
   "listedRepo": {
     "count": 4,
@@ -19,7 +20,7 @@
       "url": "https://www.linkedin.com/in/aaminu/"
     }
   ],
-  "fontFamily": "ubuntu",
+  "fontFamily": "comic-sans",
   "showVideosSection": true,
   "showBlogsSection": true,
   "showProjectsSection": true,
