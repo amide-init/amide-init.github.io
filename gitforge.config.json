@@ -4,7 +4,8 @@
   "featuredRepos": [
     "gitfolio",
     "usedamru/sql2nosql",
-    "luxe-tools/luxe-edit"
+    "luxe-tools/luxe-edit",
+    "next-lite-auth"
   ],
   "listedRepo": {
     "count": 4,
@@ -20,7 +21,7 @@
       "url": "https://www.linkedin.com/in/aaminu/"
     }
   ],
-  "fontFamily": "comic-sans",
+  "fontFamily": "roboto",
   "showVideosSection": true,
   "showBlogsSection": true,
   "showProjectsSection": true,
