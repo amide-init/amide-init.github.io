@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "a3ac6745-2a97-4b17-9659-4eaaf5ec42b2",
+    "title": "Badge Monster",
+    "description": "BadgeMonster is an AI-driven skill acceleration platform that helps learners upgrade faster through structured SkillSprints, interactive quizzes, and an autonomous AI mentor. Users gain real-time feedback, validate their skills, and earn verifiable badges.\n\nAlready trusted by 180+ users across 8+ countries, BadgeMonster is building a global ecosystem for practical, skill-based learning.",
+    "links": [
+      {
+        "label": "getbadgemonster.com",
+        "url": "https://getbadgemonster.com"
+      }
+    ],
+    "createdAt": "2026-04-01T15:37:33.320Z",
+    "updatedAt": "2026-04-01T15:41:52.357Z"
+  },
+  {
+    "id": "47f79c36-0172-421f-810a-485781fb6a90",
+    "title": "Next Lite Auth  - OSS ",
+    "description": "next-lite-auth is a lightweight, open-source JWT authentication library for modern web apps. It provides a simple and flexible way to implement secure authentication in Next.js applications without heavy dependencies or complex setup.\n\nBuilt for developers who want speed and control, next-lite-auth makes it easy to handle login, token management, and route protection with minimal code.",
+    "links": [
+      {
+        "label": "Docs Url",
+        "url": "https://aamin.me/next-lite-auth/"
+      }
+    ],
+    "createdAt": "2026-04-01T15:41:56.928Z",
+    "updatedAt": "2026-04-01T15:43:28.902Z"
+  },
+  {
+    "id": "30037871-2ecf-4387-b948-a7b53076c765",
+    "title": "Gitfolio - Portfolio Builder ",
+    "description": "GitFolio is a developer portfolio platform that transforms your GitHub profile into a clean, professional portfolio in minutes. It automatically showcases your projects, contributions, and skills—no manual setup required.\n\nBuilt for simplicity and speed, GitFolio helps developers create a strong online presence and share their work with recruiters effortlessly.",
+    "links": [
+      {
+        "label": "Fork it from here",
+        "url": "https://github.com/amide-init/gitfolio"
+      }
+    ],
+    "createdAt": "2026-04-01T15:43:33.701Z",
+    "updatedAt": "2026-04-01T15:44:56.843Z"
+  }
+]
